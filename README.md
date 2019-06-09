@@ -2,8 +2,8 @@
 
 Classic pong made miniature. 
 
-Game Width: 18px
-Height Height: 10px
+Game Width: 18px  
+Game Height: 10px
 
 ### Play
 
