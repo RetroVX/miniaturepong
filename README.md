@@ -7,7 +7,7 @@ Game Height: 10px
 
 ### Play
 
-[https://github.com/RetroVX/miniaturepong](https://github.com/RetroVX/miniaturepong/)
+[https://retrovx.github.io/miniaturepong](https://retrovx.github.io/miniaturepong/)
 
 ### Install
 
